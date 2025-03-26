@@ -1,3 +1,0 @@
-Learning how to use git
-
-I understand how to push
